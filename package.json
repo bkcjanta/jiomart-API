@@ -14,7 +14,7 @@
   "name": "backend",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    
   },
   "keywords": [],
   "author": "",
